@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    width: 150%; /* Adjust container width as needed */
+    width: 100%; /* Adjust container width as needed */
     max-width: 3000px; /* Set a maximum width for larger screens */
     margin: 0 auto;
     padding: 20px;
@@ -19,8 +19,8 @@ h1 {
 
 .iframe-container {
     position: relative;
-    width: 150%;
-    padding-bottom: 200%; /* 16:9 aspect ratio, adjust as needed for your figure */
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio, adjust as needed for your figure */
     height: 0;
     overflow: hidden;
 }
