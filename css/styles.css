@@ -20,7 +20,7 @@ h1 {
 .iframe-container {
     position: relative;
     width: 150%;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio, adjust as needed for your figure */
+    padding-bottom: 200%; /* 16:9 aspect ratio, adjust as needed for your figure */
     height: 0;
     overflow: hidden;
 }
