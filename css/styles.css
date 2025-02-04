@@ -54,7 +54,7 @@ h1 {
     border: none;
 }
 .rotate-message {
-    display: none;
+    display: flex;
     font-size: 14px;
     color: #d9534f;
     margin-top: 10px;
