@@ -60,6 +60,9 @@ h1 {
     margin-top: 10px;
 }
 
+.container-margin {
+    margin: 2%;
+}
 
 @media (max-width: 768px) {
     h1 {
