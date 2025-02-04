@@ -18,7 +18,9 @@ body {
 
 /* Container for the Content */
 .content-container {
+    margin-top: 2%;
     max-width: 1400px;
+    margin: 40px;
     width: 100%;
     background: #fff;
     padding: 20px;
