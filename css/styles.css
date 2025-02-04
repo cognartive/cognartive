@@ -53,6 +53,12 @@ h1 {
     height: 100%;
     border: none;
 }
+.rotate-message {
+    display: none;
+    font-size: 14px;
+    color: #d9534f;
+    margin-top: 10px;
+}
 
 
 @media (max-width: 768px) {
